@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# env
+.env
+
+# OS
+.DS_Store
+
+# temp directory
+.temp
+.tmp
